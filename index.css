@@ -1,0 +1,12 @@
+.mockups{
+    Width: 578px;
+Height: 845px
+}
+
+
+/* global.css */
+
+.curved-red {
+  background: #e60012; /* Red */
+  clip-path: ellipse(120% 100% at 50% 0%);
+}
