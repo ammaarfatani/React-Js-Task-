@@ -5,7 +5,7 @@ const Testimonial = () => {
     <section className="relative w-full min-h-screen flex items-center justify-center overflow-hidden">
       <div className="absolute inset-0">
         <img
-          src="/assets/bg-office.png" 
+          src="./src/assets/bg-office.png" 
           alt="Office background"
           className="w-full h-full object-cover"
         />
@@ -30,7 +30,7 @@ const Testimonial = () => {
           <div className="bg-white rounded-lg shadow-lg p-8 relative ml-0 md:ml-8">
             <div className="flex items-center mb-6">
               <img
-                src="/assets/client.png" 
+                src="./src/assets/client.png" 
                 alt="Client"
                 className="w-16 h-16 rounded-full object-cover"
               />

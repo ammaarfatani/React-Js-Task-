@@ -2,33 +2,33 @@ import React from "react";
 
 const industries = [
   {
-    icon: "/assets/medical.png",
+    icon: "./src/assets/medical.png",
     title: "Medical & Pharma Services",
     desc: "We research, plan, and execute - and these qualities make Appicoders stand out from the crowd. We put the needs of our clients ahead of us.",
   },
   {
-    icon: "/assets/training.png",
+    icon: "./src/assets/training.png",
     title: "Training & Fitness",
     desc: "We research, plan, and execute - and these qualities make Appicoders stand out from the crowd. We put the needs of our clients ahead of us.",
     active: true, 
   },
   {
-    icon: "/assets/fintech.png",
+    icon: "./src/assets/fintech.png",
     title: "Fintech",
     desc: "We research, plan, and execute - and these qualities make Appicoders stand out from the crowd. We put the needs of our clients ahead of us.",
   },
   {
-    icon: "/assets/health.png",
+    icon: "./src/assets/health.png",
     title: "Health & Fitness",
     desc: "We research, plan, and execute - and these qualities make Appicoders stand out from the crowd. We put the needs of our clients ahead of us.",
   },
   {
-    icon: "/assets/business.png",
+    icon: "./src/assets/business.png",
     title: "Business & Services",
     desc: "We research, plan, and execute - and these qualities make Appicoders stand out from the crowd. We put the needs of our clients ahead of us.",
   },
   {
-    icon: "/assets/cleaning.png",
+    icon: "./src/assets/cleaning.png",
     title: "Cleaning Services",
     desc: "We research, plan, and execute - and these qualities make Appicoders stand out from the crowd. We put the needs of our clients ahead of us.",
   },

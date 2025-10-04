@@ -13,7 +13,7 @@ const Portfolio = () => {
     <section className="relative min-h-screen flex items-center  text-white overflow-hidden">
       <div className="absolute inset-0 z-0">
         <img
-          src="./assets/portfolioBg.png"
+          src="../src/assets/portfolioBg.png"
           alt="Background"
           className="w-full h-full object-cover"
         />
@@ -40,12 +40,12 @@ const Portfolio = () => {
 
           <div className="flex items-center space-x-4 mb-8">
             <img
-              src="./assets/appstore.png"
+              src="../src/assets/appstore.png"
               alt="App Store"
               className="h-12 cursor-pointer"
             />
             <img
-              src="./assets/googleplay.png"
+              src="../src/assets/googleplay.png"
               alt="Google Play"
               className="h-12 cursor-pointer"
             />
@@ -59,17 +59,17 @@ const Portfolio = () => {
         <div className="relative flex justify-center pr-20 lg:justify-end items-center">
           <div className="flex-col p-6 rounded-2xl shadow-2xl flex space-x-8">
             <img
-              src="./assets/image16.png"
+              src="../src/assets/image16.png"
               alt="App Screenshot 1"
               className="rounded-xl w-40 md:w-48 lg:w-56 transform shadow-lg"
             />
             <img
-              src="./assets/image17.png"
+              src="../src/assets/image17.png"
               alt="App Screenshot 2"
               className="rounded-xl w-40 md:w-48 lg:w-56 transform shadow-lg"
             />
             <img
-              src="./assets/image18.png"
+              src="../src/assets/image18.png"
               alt="App Screenshot 2"
               className="rounded-xl w-40 md:w-48 lg:w-56 transform shadow-lg"
             />
@@ -89,7 +89,7 @@ const Portfolio = () => {
       {/* <div className="absolute bottom-6 left-1/2 -translate-x-1/2 w-64 md:w-72 lg:w-80 opacity-80">
         <div className="bg-white/10 p-4 rounded-2xl shadow-2xl">
           <img
-            src="./assets/image18.png"
+            src="../src/assets/image18.png"
             alt="Next Project Preview"
             className="rounded-xl"
           />

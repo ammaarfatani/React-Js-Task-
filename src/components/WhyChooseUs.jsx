@@ -5,21 +5,21 @@ const features = [
     title: "Focused Business Approach",
     description:
       "We research, plan, and execute - and these qualities make Appicoders stand out from the crowd. We put the needs of our clients ahead of us.",
-    icon: "/assets/focus-icon.png", 
+    icon: "./src/assets/focus-icon.png", 
     active: false,
   },
   {
     title: "Professional Team",
     description:
       "Our mobile development company has extremely professional & expert mobile app developers who specialize in 2D, 3D, & Isometric apps for Android, iOS, & webapp platforms.",
-    icon: "/assets/team-icon.png", 
+    icon: "./src/assets/team-icon.png", 
     active: true, 
   },
   {
     title: "Flexible Payment Terms",
     description:
       "Get your apps developed with most affordable price and with our flexible payment terms, you pay as your project progresses.",
-    icon: "/assets/payment-icon.png",
+    icon: "./src/assets/payment-icon.png",
     active: false,
   },
 ];

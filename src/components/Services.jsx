@@ -71,7 +71,7 @@ const Services = () => {
 
           <div className="relative h-64 lg:h-auto">
             <img
-              src="./assets/vector.png"
+              src="./src/assets/vector.png"
               alt="Laptop with code and UI elements"
               className="absolute -top-24 lg:-top-32 right-0  max-w-lg transform lg:scale-125"
             />
