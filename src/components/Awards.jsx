@@ -4,7 +4,7 @@ const Awards = () => {
   const awards = [
     {
       id: 1,
-      img: "./src/assets/award1.png",
+      img: "/images/award1.png",
       alt: "ITFirms Award",
       title: "Top Mobile App Development Company",
       desc: "Recognized by ITFirms in 2019",
@@ -12,7 +12,7 @@ const Awards = () => {
     },
     {
       id: 2,
-      img: "./src/assets/award2.png",
+      img: "/images/award2.png",
       alt: "Top Mobile App Developers 2020",
       title: "Top Mobile App Developers 2020",
       desc: "Top Developers mentioned us in their top app companies in the USA list.",
@@ -20,7 +20,7 @@ const Awards = () => {
     },
     {
       id: 3,
-      img: "./src/assets/award3.png",
+      img: "/images/award3.png",
       alt: "Clutch Alberta 2019",
       title: "Clutch Alberta 2019",
       desc: "Top React Native Developers in Alberta, 2019",
@@ -28,7 +28,7 @@ const Awards = () => {
     },
     {
       id: 4,
-      img: "./src/assets/award4.png",
+      img: "/images/award4.png",
       alt: "Appfutura Award",
       title: "AppFutura",
       desc: "Listed among the top mobile app development companies",
