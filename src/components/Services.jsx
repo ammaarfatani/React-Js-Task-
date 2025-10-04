@@ -69,13 +69,13 @@ const Services = () => {
             </div>
           </div>
 
-          <div className="relative h-64 lg:h-auto">
+          {/* <div className="relative h-64 lg:h-auto">
             <img
               src="/images/vector.png"
               alt="Laptop with code and UI elements"
               className="absolute -top-24 lg:-top-32 right-0  max-w-lg transform lg:scale-125"
             />
-          </div>
+          </div> */}
         </div>
       </div>
     </section>
