@@ -7,7 +7,7 @@ const ContactInfo = () => {
    <div className="bg-white flex flex-col">
   <div className="relative">
     <img 
-      src="../src/assets/contact.png" 
+      src="./images/contact.png" 
       alt="contact" 
       className="w-full h-[500px] object-cover" 
     />

@@ -4,7 +4,7 @@ const Technologies = () => {
   return (
     <div
       className="w-full relative py-16 px-6 bg-cover bg-center"
-      style={{ backgroundImage: "url('./src/assets/backgroundCloud.png')" }}
+      style={{ backgroundImage: "url('/images/backgroundCloud.png')" }}
     >
       <div className="absolute inset-0 bg-gradient-to-r from-gray-900/90 to-gray-900/90"></div>
 
@@ -34,7 +34,7 @@ const Technologies = () => {
 
           <div className="rounded-lg overflow-hidden shadow-lg flex-1">
             <img
-              src="./src/assets/cloud.png"
+              src="/images/cloud.png"
               alt="Cloud Solutions"
               className="w-full h-full object-cover"
             />

@@ -2,23 +2,23 @@ import React from "react";
 
 const Products = () => {
   const products = [
-    { id: 1, title: "Health Supreme", img: "./src/assets/product1.png" },
-    { id: 2, title: "E-Commerce", img: "./src/assets/product2.png" },
-    { id: 3, title: "CRM 365", img: "./src/assets/product3.png" },
-    { id: 4, title: "Training App", img: "./src/assets/product4.png" },
-    { id: 5, title: "OSDA", img: "./src/assets/product3.png" },
-    { id: 6, title: "Fitness", img: "./src/assets/product6.png" },
+    { id: 1, title: "Health Supreme", img: "/images/product1.png" },
+    { id: 2, title: "E-Commerce", img: "/images/product2.png" },
+    { id: 3, title: "CRM 365", img: "/images/product3.png" },
+    { id: 4, title: "Training App", img: "/images/product4.png" },
+    { id: 5, title: "OSDA", img: "/images/product3.png" },
+    { id: 6, title: "Fitness", img: "/images/product6.png" },
   ];
 
   return (
     <div className="relative w-full py-16 px-6 overflow-hidden">
       <img
-        src="./src/assets/vectorBg.png"
+        src="/images/vectorBg.png"
         alt="Background Vector"
         className="absolute inset-0 w-full h-full object-cover"
       />
       <img
-        src="./src/assets/vectorBg1.png"
+        src="/images/vectorBg1.png"
         alt="Red Background"
         className="absolute inset-0 w-full h-full object-cover"
       />
