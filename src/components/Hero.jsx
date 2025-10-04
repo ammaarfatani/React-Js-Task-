@@ -43,7 +43,7 @@ const Hero = () => {
         <div className="flex flex-col lg:flex-row items-center justify-between gap-12">
           <div className="lg:w-1/2 flex justify-center lg:justify-start">
             <img
-              src="./src/assets/mockups.png"
+              src="/images/mockups.png"
               alt="Mobile Mockup"
               className="max-w-[400px] md:max-w-[480px] lg:max-w-[500px] drop-shadow-2xl relative z-10"
             />
